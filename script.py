@@ -66,3 +66,5 @@ if __name__ == "__main__":
 
     # Llamar a la función para procesar los datos
     procesar_datos(datos)
+
+    ## Escribe en la linea de comandos de tu terminal: python script.py https://huggingface.co/datasets/mstz/heart_failure/raw/main/heart_failure_clinical_records_dataset.csv, para descargar los datos.
